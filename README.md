@@ -35,7 +35,7 @@ Pada kesempatan ini saya akan mempresentasikan proposal Tugas Akhir dengan judul
 
 
 
-* Namun, belum banyak sistem yang memantau perilaku berkendara secara langsung dan memberikan peringatan dini risiko keausan sebelum terjadi kerusakan.
+* Oleh karena itu, pada Tugas Akhir ini dikembangkan sistem berbasis IoT dan sistem pakar untuk memantau perilaku berkendara dan memberikan peringatan dini terhadap risiko keausan komponen secara real-time.”
 
 
 
