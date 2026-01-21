@@ -67,7 +67,7 @@ Sistem tidak mendukung pemantauan jarak jauh secara offline.
 
 
 
-* Output sistem dibatasi pada Prediksi tingkat risiko keausan komponen kendaraan, meliputi:kampas rem, ban, kopling, mesin, dan suspensi Tingkat risiko disajikan dalam tiga kategori:
+* Output sistem dibatasi pada peringatan dini risiko keausan komponen kendaraan, meliputi:kampas rem, ban, kopling, mesin, dan suspensi Tingkat risiko disajikan dalam tiga kategori:
 
 
 
